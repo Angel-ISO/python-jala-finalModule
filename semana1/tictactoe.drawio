@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="YjxcIwNsSM6Dd1r_q_eu" name="Page-1">
+        <mxGraphModel dx="438" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="player" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="240" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="nombre&lt;br&gt;fichas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="280" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="addtoken" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B09500;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="260" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="simbolo&lt;br&gt;posicion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="300" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="get posicion&lt;br&gt;set posicion" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B09500;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="dashboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="480" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="jugadores&lt;br&gt;turno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="520" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="asignar turno&lt;br&gt;encontrar ganador&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B09500;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="590" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

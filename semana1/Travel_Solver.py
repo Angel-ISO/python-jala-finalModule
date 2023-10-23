@@ -39,7 +39,7 @@ class Travel_Solver:
             return "Direct flight from Cochabamba to Japan $6800"
         return "No available options that match with your preferences."
 
-def main():
+def Request():
     print("whats Up bro! We are travel solver. your best solution.")
     budget = float(input("Please enter your budget: $"))
     max_bus_duration = int(input("Please enter the maximum bus duration you can tolerate in hours: "))
@@ -49,4 +49,4 @@ def main():
     recommended_option = solver.select_best_option()
     print(f"The recommended travel option is: {recommended_option}")
 
-main()
+Request()

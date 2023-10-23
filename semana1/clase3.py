@@ -39,7 +39,7 @@ class Dashboard:
     def get_player_move(self):
             while True:
                 try:
-                    move = int(input("Bienvenido. Elige una celda de (0-8): "))
+                    move = int(input("Bienvenido. Elige una celdacha de (0-8): "))
                     if 0 <= move <= 8:
                         break
                     else:

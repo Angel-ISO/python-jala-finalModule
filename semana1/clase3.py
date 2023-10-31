@@ -23,6 +23,7 @@ class Dashboard:
             else:
                  raise ValueError("posicion invalida")    
 
+
     def create_cells(self):
         return [Cell(i) for i in range(9)]  
 
@@ -57,3 +58,5 @@ class Cell:
 class Token:
     def __init__(self, symbol):
         self.symbol = symbol
+
+
